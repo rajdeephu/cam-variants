@@ -11,5 +11,5 @@ conda activate cam
 python cam.py --help
 
 # Run example
-pytnon cam.py --gpu 0 --type gradcam
+python cam.py --gpu 0 --type gradcam
 ``` 
